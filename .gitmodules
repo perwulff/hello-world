@@ -1,0 +1,4 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/perwulff/hello-world
+	branch = client2
